@@ -1,5 +1,5 @@
 <h1>Hi, I'm Vivek Jain <img width='50px' src='https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif'><img></h1>
-<picture><img src='https://res.cloudinary.com/practicaldev/image/fetch/s--YKFccx7a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yygcr372zo1lyg32mmv1.gif'></img></picture>
+<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--YKFccx7a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yygcr372zo1lyg32mmv1.gif'></img>
 <h2>About me</h2>
 
  - Passionate web developer, currently working as senior software developer at Verizon.
