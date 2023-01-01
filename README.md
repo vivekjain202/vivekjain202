@@ -32,4 +32,5 @@
 <p align='center'>
 <a href='https://in.linkedin.com/in/vivek-jain-16957a56'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></img></a>
 <a href='mailto:v.jain.202@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img></a>
+<a href='https://twitter.com/vivekjain202'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'></img></a>
 </p>
