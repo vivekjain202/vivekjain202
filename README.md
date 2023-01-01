@@ -25,11 +25,11 @@
 <h2>Profiles</h2>
 <a href='https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'><img src='https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'></img></a>
 <a href='https://leetcode.com/vivekjain202/'><img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06'></img></a>
-
+<a href='https://github.com/vivekjain202'><img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'></img></a>
+<a href='https://www.hackerrank.com/v_jain_202'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'></img></a>
 <br>
 <h2>Connect with me</h2>
 <p align='center'>
 <a href='https://in.linkedin.com/in/vivek-jain-16957a56'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></img></a>
-<a href=''><img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'></img></a>
 <a href='mailto:v.jain.202@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img></a>
 </p>
