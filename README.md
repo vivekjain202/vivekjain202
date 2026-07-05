@@ -2,7 +2,7 @@
 <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--YKFccx7a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yygcr372zo1lyg32mmv1.gif'></img>
 <h2>About me</h2>
 
- - Passionate web developer, currently working as senior software developer at Verizon.
+ - Passionate web developer, currently working as senior software developer at Project44.
  - Most of my spare time goes in learning new technologies, [Stackoverflow](https://stackoverflow.com/users/9624435/code-maniac) and [LeetCode](https://leetcode.com/vivekjain202/).
  - Interested in building systems from scratch and dig more into architecture and system design.  
 
